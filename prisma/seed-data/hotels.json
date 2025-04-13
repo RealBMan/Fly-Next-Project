@@ -1,0 +1,1533 @@
+[
+    {
+      "name": "Grand Example Hotel",
+      "address": "123 Main Street",
+      "location": "Toronto",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/007bff/ffffff?text=Grand",
+      "images": [
+        "https://fastly.picsum.photos/id/10/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/11/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Standard Queen",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 185.50,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/20/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Deluxe King",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 250.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/21/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Downtown Cozy Inn",
+      "address": "456 Market Ave",
+      "location": "Vancouver",
+      "starRating": 3.0,
+      "logoUrl": "https://via.placeholder.com/100x50/28a745/ffffff?text=Cozy",
+      "images": [
+        "https://fastly.picsum.photos/id/30/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Single Basic",
+          "amenities": ["WiFi"],
+          "pricePerNight": 95.00,
+          "availableRooms": 5,
+          "images": [
+            "https://fastly.picsum.photos/id/40/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seaside Paradise Resort",
+      "address": "789 Ocean Drive",
+      "location": "Vancouver",
+      "starRating": 4.7,
+      "logoUrl": "https://via.placeholder.com/100x50/ff5733/ffffff?text=Paradise",
+      "images": [
+        "https://fastly.picsum.photos/id/31/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/32/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Ocean View Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Balcony"],
+          "pricePerNight": 220.00,
+          "availableRooms": 12,
+          "images": [
+            "https://fastly.picsum.photos/id/41/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Ocean View Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Balcony", "Sea View"],
+          "pricePerNight": 300.00,
+          "availableRooms": 6,
+          "images": [
+            "https://fastly.picsum.photos/id/42/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mountain View Lodge",
+      "address": "101 Alpine Road",
+      "location": "Calgary",
+      "starRating": 4.0,
+      "logoUrl": "https://via.placeholder.com/100x50/6f42c1/ffffff?text=Mountain",
+      "images": [
+        "https://fastly.picsum.photos/id/33/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/34/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 150.00,
+          "availableRooms": 20,
+          "images": [
+            "https://fastly.picsum.photos/id/43/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Deluxe Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Fireplace", "Mountain View"],
+          "pricePerNight": 280.00,
+          "availableRooms": 10,
+          "images": [
+            "https://fastly.picsum.photos/id/44/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Central Hotel",
+      "address": "202 Urban Blvd",
+      "location": "Toronto",
+      "starRating": 4.2,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Central",
+      "images": [
+        "https://fastly.picsum.photos/id/35/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/36/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Standard City Room",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 160.00,
+          "availableRooms": 18,
+          "images": [
+            "https://fastly.picsum.photos/id/45/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Executive Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 320.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/46/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lakeside Resort",
+      "address": "303 Lakeview Dr",
+      "location": "Ottawa",
+      "starRating": 4.3,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Lakeside",
+      "images": [
+        "https://fastly.picsum.photos/id/37/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/38/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Lake View Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Balcony"],
+          "pricePerNight": 180.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/47/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Lake View Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Balcony", "Lake View"],
+          "pricePerNight": 340.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/48/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urban Oasis Hotel",
+      "address": "404 City Center",
+      "location": "Vancouver",
+      "starRating": 4.1,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Oasis",
+      "images": [
+        "https://fastly.picsum.photos/id/39/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/40/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Standard Room",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 170.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/49/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Deluxe Room",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 310.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/50/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heritage Grand Inn",
+      "address": "505 Old Town Rd",
+      "location": "Montreal",
+      "starRating": 3.8,
+      "logoUrl": "https://via.placeholder.com/100x50/6610f2/ffffff?text=Heritage",
+      "images": [
+        "https://fastly.picsum.photos/id/41/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/42/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Classic Room",
+          "amenities": ["WiFi", "TV"],
+          "pricePerNight": 130.00,
+          "availableRooms": 12,
+          "images": [
+            "https://fastly.picsum.photos/id/51/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Heritage Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 260.00,
+          "availableRooms": 6,
+          "images": [
+            "https://fastly.picsum.photos/id/52/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Royal Plaza",
+      "address": "606 Crown St",
+      "location": "Toronto",
+      "starRating": 4.6,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Royal",
+      "images": [
+        "https://fastly.picsum.photos/id/43/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/44/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Queen Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 190.00,
+          "availableRooms": 17,
+          "images": [
+            "https://fastly.picsum.photos/id/53/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "King Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 330.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/54/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Budget Stay Motel",
+      "address": "707 Economy Ln",
+      "location": "Calgary",
+      "starRating": 2.8,
+      "logoUrl": "https://via.placeholder.com/100x50/6c757d/ffffff?text=Budget",
+      "images": [
+        "https://fastly.picsum.photos/id/45/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Basic Room",
+          "amenities": ["WiFi"],
+          "pricePerNight": 80.00,
+          "availableRooms": 25,
+          "images": [
+            "https://fastly.picsum.photos/id/55/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sunnyvale Suites",
+      "address": "808 Sunshine Blvd",
+      "location": "Vancouver",
+      "starRating": 4.4,
+      "logoUrl": "https://via.placeholder.com/100x50/fd7e14/ffffff?text=Sunnyvale",
+      "images": [
+        "https://fastly.picsum.photos/id/46/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/47/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Suite Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 200.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/56/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Suite Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 360.00,
+          "availableRooms": 10,
+          "images": [
+            "https://fastly.picsum.photos/id/57/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skyline Executive Hotel",
+      "address": "909 Skyline Rd",
+      "location": "Toronto",
+      "starRating": 4.8,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Skyline",
+      "images": [
+        "https://fastly.picsum.photos/id/48/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/49/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Executive Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 210.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/58/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Executive Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Lounge Access"],
+          "pricePerNight": 400.00,
+          "availableRooms": 5,
+          "images": [
+            "https://fastly.picsum.photos/id/59/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Countryside Retreat",
+      "address": "101 Country Rd",
+      "location": "Ottawa",
+      "starRating": 3.9,
+      "logoUrl": "https://via.placeholder.com/100x50/20c997/ffffff?text=Countryside",
+      "images": [
+        "https://fastly.picsum.photos/id/50/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/51/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Country Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 140.00,
+          "availableRooms": 22,
+          "images": [
+            "https://fastly.picsum.photos/id/60/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Country Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 270.00,
+          "availableRooms": 11,
+          "images": [
+            "https://fastly.picsum.photos/id/61/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Downtown Luxury Suites",
+      "address": "202 Luxury St",
+      "location": "Montreal",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/007bff/ffffff?text=Luxury",
+      "images": [
+        "https://fastly.picsum.photos/id/52/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/53/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Luxury Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 230.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/62/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Luxury Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Jacuzzi"],
+          "pricePerNight": 450.00,
+          "availableRooms": 6,
+          "images": [
+            "https://fastly.picsum.photos/id/63/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harborview Inn",
+      "address": "303 Harbor St",
+      "location": "Vancouver",
+      "starRating": 3.7,
+      "logoUrl": "https://via.placeholder.com/100x50/6f42c1/ffffff?text=Harborview",
+      "images": [
+        "https://fastly.picsum.photos/id/54/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/55/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Harbor Standard",
+          "amenities": ["WiFi", "TV"],
+          "pricePerNight": 160.00,
+          "availableRooms": 20,
+          "images": [
+            "https://fastly.picsum.photos/id/64/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Harbor Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 290.00,
+          "availableRooms": 10,
+          "images": [
+            "https://fastly.picsum.photos/id/65/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Classic Hotel",
+      "address": "404 Tradition Ave",
+      "location": "Toronto",
+      "starRating": 3.6,
+      "logoUrl": "https://via.placeholder.com/100x50/28a745/ffffff?text=Classic",
+      "images": [
+        "https://fastly.picsum.photos/id/56/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/57/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Classic Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 150.00,
+          "availableRooms": 19,
+          "images": [
+            "https://fastly.picsum.photos/id/66/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Classic Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 280.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/67/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Emerald Bay Resort",
+      "address": "505 Emerald Rd",
+      "location": "Ottawa",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Emerald",
+      "images": [
+        "https://fastly.picsum.photos/id/58/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/59/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Bay Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 210.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/68/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Bay Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Sea View"],
+          "pricePerNight": 380.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/69/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vintage Charm Inn",
+      "address": "606 Retro Rd",
+      "location": "Montreal",
+      "starRating": 3.5,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Vintage",
+      "images": [
+        "https://fastly.picsum.photos/id/60/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/61/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Vintage Standard",
+          "amenities": ["WiFi", "TV"],
+          "pricePerNight": 120.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/70/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Vintage Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 250.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/71/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prestige Palace Hotel",
+      "address": "707 Royal Ave",
+      "location": "Calgary",
+      "starRating": 4.9,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Palace",
+      "images": [
+        "https://fastly.picsum.photos/id/62/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/63/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Palace Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 240.00,
+          "availableRooms": 12,
+          "images": [
+            "https://fastly.picsum.photos/id/72/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Palace Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Butler Service"],
+          "pricePerNight": 500.00,
+          "availableRooms": 4,
+          "images": [
+            "https://fastly.picsum.photos/id/73/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modern Comfort Inn",
+      "address": "808 Modern Way",
+      "location": "Vancouver",
+      "starRating": 4.0,
+      "logoUrl": "https://via.placeholder.com/100x50/28a745/ffffff?text=Modern",
+      "images": [
+        "https://fastly.picsum.photos/id/64/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/65/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Comfort Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 175.00,
+          "availableRooms": 18,
+          "images": [
+            "https://fastly.picsum.photos/id/74/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Comfort Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 320.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/75/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luxe Urban Hotel",
+      "address": "909 Urban Rd",
+      "location": "Toronto",
+      "starRating": 4.7,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Luxe",
+      "images": [
+        "https://fastly.picsum.photos/id/66/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/67/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Urban Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 205.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/76/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Urban Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Lounge Access"],
+          "pricePerNight": 420.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/77/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coastal Breeze Resort",
+      "address": "101 Seaside Ln",
+      "location": "Vancouver",
+      "starRating": 4.3,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Coastal",
+      "images": [
+        "https://fastly.picsum.photos/id/68/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/69/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Coastal Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 190.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/78/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Coastal Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Sea View"],
+          "pricePerNight": 350.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/79/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Riverside Boutique Hotel",
+      "address": "202 Riverside Dr",
+      "location": "Ottawa",
+      "starRating": 4.2,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Riverside",
+      "images": [
+        "https://fastly.picsum.photos/id/70/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/71/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Boutique Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 215.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/80/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Boutique Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 370.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/81/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Grand Heritage",
+      "address": "303 History Ln",
+      "location": "Montreal",
+      "starRating": 4.0,
+      "logoUrl": "https://via.placeholder.com/100x50/6c757d/ffffff?text=Heritage",
+      "images": [
+        "https://fastly.picsum.photos/id/72/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/73/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Heritage Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 225.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/82/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Heritage Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 380.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/83/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Executive Downtown Suites",
+      "address": "404 Business Rd",
+      "location": "Toronto",
+      "starRating": 4.6,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Executive",
+      "images": [
+        "https://fastly.picsum.photos/id/74/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/75/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Downtown Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 235.00,
+          "availableRooms": 17,
+          "images": [
+            "https://fastly.picsum.photos/id/84/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Downtown Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Lounge Access"],
+          "pricePerNight": 410.00,
+          "availableRooms": 6,
+          "images": [
+            "https://fastly.picsum.photos/id/85/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comfort & Care Inn",
+      "address": "505 Wellness Ave",
+      "location": "Calgary",
+      "starRating": 3.9,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Care",
+      "images": [
+        "https://fastly.picsum.photos/id/76/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/77/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Care Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 155.00,
+          "availableRooms": 20,
+          "images": [
+            "https://fastly.picsum.photos/id/86/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Care Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 295.00,
+          "availableRooms": 10,
+          "images": [
+            "https://fastly.picsum.photos/id/87/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "City Lights Hotel",
+      "address": "606 Metro St",
+      "location": "Vancouver",
+      "starRating": 4.4,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Lights",
+      "images": [
+        "https://fastly.picsum.photos/id/78/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/79/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "City Light Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 220.00,
+          "availableRooms": 18,
+          "images": [
+            "https://fastly.picsum.photos/id/88/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "City Light Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 370.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/89/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sunset Beach Resort",
+      "address": "707 Oceanview Blvd",
+      "location": "Vancouver",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/007bff/ffffff?text=Sunset",
+      "images": [
+        "https://fastly.picsum.photos/id/80/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/81/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Beach Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 230.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/90/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Beach Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Sea View"],
+          "pricePerNight": 390.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/91/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Heritage Inn",
+      "address": "808 Regal Rd",
+      "location": "Toronto",
+      "starRating": 4.2,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Royal+Heritage",
+      "images": [
+        "https://fastly.picsum.photos/id/82/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/83/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Royal Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 225.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/92/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Royal Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 380.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/93/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maple Leaf Hotel",
+      "address": "909 Maple St",
+      "location": "Montreal",
+      "starRating": 4.0,
+      "logoUrl": "https://via.placeholder.com/100x50/28a745/ffffff?text=Maple+Leaf",
+      "images": [
+        "https://fastly.picsum.photos/id/84/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/85/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Maple Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 210.00,
+          "availableRooms": 17,
+          "images": [
+            "https://fastly.picsum.photos/id/94/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Maple Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 360.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/95/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Urban Retreat",
+      "address": "101 Metro Ave",
+      "location": "Ottawa",
+      "starRating": 3.8,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Retreat",
+      "images": [
+        "https://fastly.picsum.photos/id/86/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/87/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Retreat Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 200.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/96/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Retreat Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 350.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/97/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Seaview Luxury Suites",
+      "address": "202 Ocean Ave",
+      "location": "Vancouver",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Seaview",
+      "images": [
+        "https://fastly.picsum.photos/id/88/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/89/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Seaview Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 235.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/98/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Seaview Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Sea View"],
+          "pricePerNight": 395.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/99/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Central Park Hotel",
+      "address": "303 Park Rd",
+      "location": "Toronto",
+      "starRating": 4.1,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Central+Park",
+      "images": [
+        "https://fastly.picsum.photos/id/90/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/91/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Park Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 215.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/100/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Park Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 365.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/101/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pine Forest Lodge",
+      "address": "404 Pine Rd",
+      "location": "Calgary",
+      "starRating": 3.7,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Pine+Forest",
+      "images": [
+        "https://fastly.picsum.photos/id/92/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/93/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Forest Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 190.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/102/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Forest Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 330.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/103/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Riverside Grand Hotel",
+      "address": "505 River Rd",
+      "location": "Ottawa",
+      "starRating": 4.2,
+      "logoUrl": "https://via.placeholder.com/100x50/6c757d/ffffff?text=Riverside+Grand",
+      "images": [
+        "https://fastly.picsum.photos/id/94/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/95/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Riverside Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 220.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/104/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Riverside Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 370.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/105/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Highland Hotel",
+      "address": "606 Mountain Rd",
+      "location": "Calgary",
+      "starRating": 4.0,
+      "logoUrl": "https://via.placeholder.com/100x50/007bff/ffffff?text=Highland",
+      "images": [
+        "https://fastly.picsum.photos/id/96/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/97/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Highland Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 210.00,
+          "availableRooms": 13,
+          "images": [
+            "https://fastly.picsum.photos/id/106/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Highland Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 360.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/107/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serenity Suites",
+      "address": "707 Tranquil Ave",
+      "location": "Vancouver",
+      "starRating": 4.3,
+      "logoUrl": "https://via.placeholder.com/100x50/28a745/ffffff?text=Serenity",
+      "images": [
+        "https://fastly.picsum.photos/id/98/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/99/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Serene Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 195.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/108/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Serene Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 345.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/109/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Timeless Retreat",
+      "address": "808 Heritage Ln",
+      "location": "Montreal",
+      "starRating": 3.9,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Timeless",
+      "images": [
+        "https://fastly.picsum.photos/id/100/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/101/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Timeless Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 205.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/110/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Timeless Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 365.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/111/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opulent Oasis",
+      "address": "909 Luxury Blvd",
+      "location": "Toronto",
+      "starRating": 4.8,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Opulent",
+      "images": [
+        "https://fastly.picsum.photos/id/102/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/103/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Opulent Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 245.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/112/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Opulent Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Butler Service"],
+          "pricePerNight": 520.00,
+          "availableRooms": 5,
+          "images": [
+            "https://fastly.picsum.photos/id/113/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultural Charm Inn",
+      "address": "101 History Blvd",
+      "location": "Ottawa",
+      "starRating": 3.7,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Charm",
+      "images": [
+        "https://fastly.picsum.photos/id/104/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/105/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Charm Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 190.00,
+          "availableRooms": 17,
+          "images": [
+            "https://fastly.picsum.photos/id/114/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Charm Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 345.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/115/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modern Metro Hotel",
+      "address": "202 Metro Plaza",
+      "location": "Vancouver",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Metro",
+      "images": [
+        "https://fastly.picsum.photos/id/106/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/107/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Metro Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 225.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/116/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Metro Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 375.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/117/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Countryside Inn",
+      "address": "303 Rural Rd",
+      "location": "Calgary",
+      "starRating": 3.6,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Countryside",
+      "images": [
+        "https://fastly.picsum.photos/id/108/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/109/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Rural Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 185.00,
+          "availableRooms": 20,
+          "images": [
+            "https://fastly.picsum.photos/id/118/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Rural Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 325.00,
+          "availableRooms": 10,
+          "images": [
+            "https://fastly.picsum.photos/id/119/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luxury Harbor Hotel",
+      "address": "404 Harbor Blvd",
+      "location": "Toronto",
+      "starRating": 4.7,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Harbor",
+      "images": [
+        "https://fastly.picsum.photos/id/110/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/111/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Harbor Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 235.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/120/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Harbor Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 385.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/121/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scenic Vista Resort",
+      "address": "505 Scenic Dr",
+      "location": "Montreal",
+      "starRating": 4.4,
+      "logoUrl": "https://via.placeholder.com/100x50/ffc107/ffffff?text=Vista",
+      "images": [
+        "https://fastly.picsum.photos/id/112/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/113/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Vista Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 220.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/122/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Vista Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 370.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/123/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Downtown Business Suites",
+      "address": "606 Commerce St",
+      "location": "Vancouver",
+      "starRating": 4.3,
+      "logoUrl": "https://via.placeholder.com/100x50/6f42c1/ffffff?text=Business",
+      "images": [
+        "https://fastly.picsum.photos/id/114/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/115/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Business Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 230.00,
+          "availableRooms": 17,
+          "images": [
+            "https://fastly.picsum.photos/id/124/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Business Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View", "Lounge Access"],
+          "pricePerNight": 400.00,
+          "availableRooms": 6,
+          "images": [
+            "https://fastly.picsum.photos/id/125/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eco Green Inn",
+      "address": "707 Sustainability Ave",
+      "location": "Ottawa",
+      "starRating": 3.9,
+      "logoUrl": "https://via.placeholder.com/100x50/28a745/ffffff?text=Eco+Green",
+      "images": [
+        "https://fastly.picsum.photos/id/116/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/117/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Eco Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 195.00,
+          "availableRooms": 18,
+          "images": [
+            "https://fastly.picsum.photos/id/126/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Eco Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 345.00,
+          "availableRooms": 9,
+          "images": [
+            "https://fastly.picsum.photos/id/127/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Royal Regency Hotel",
+      "address": "808 Regal Plaza",
+      "location": "Toronto",
+      "starRating": 4.5,
+      "logoUrl": "https://via.placeholder.com/100x50/dc3545/ffffff?text=Regency",
+      "images": [
+        "https://fastly.picsum.photos/id/128/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/129/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Regency Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 230.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/130/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Regency Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 380.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/131/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cityscape Inn",
+      "address": "909 Urban Way",
+      "location": "Montreal",
+      "starRating": 3.8,
+      "logoUrl": "https://via.placeholder.com/100x50/17a2b8/ffffff?text=Cityscape",
+      "images": [
+        "https://fastly.picsum.photos/id/132/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/133/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Cityscape Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 210.00,
+          "availableRooms": 14,
+          "images": [
+            "https://fastly.picsum.photos/id/134/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Cityscape Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar"],
+          "pricePerNight": 360.00,
+          "availableRooms": 8,
+          "images": [
+            "https://fastly.picsum.photos/id/135/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Urban Retreat Suites",
+      "address": "101 Central Ave",
+      "location": "Ottawa",
+      "starRating": 4.2,
+      "logoUrl": "https://via.placeholder.com/100x50/343a40/ffffff?text=Urban+Retreat",
+      "images": [
+        "https://fastly.picsum.photos/id/136/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/137/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Retreat Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 220.00,
+          "availableRooms": 15,
+          "images": [
+            "https://fastly.picsum.photos/id/138/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Retreat Suite",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "City View"],
+          "pricePerNight": 370.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/139/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Harbor Edge Resort",
+      "address": "202 Seafront Dr",
+      "location": "Vancouver",
+      "starRating": 4.4,
+      "logoUrl": "https://via.placeholder.com/100x50/007bff/ffffff?text=Harbor+Edge",
+      "images": [
+        "https://fastly.picsum.photos/id/140/800/600.jpg?hmac=abcde",
+        "https://fastly.picsum.photos/id/141/800/600.jpg?hmac=abcde"
+      ],
+      "roomTypes": [
+        {
+          "name": "Edge Standard",
+          "amenities": ["WiFi", "TV", "Air Conditioning"],
+          "pricePerNight": 235.00,
+          "availableRooms": 16,
+          "images": [
+            "https://fastly.picsum.photos/id/142/400/300.jpg?hmac=abcde"
+          ]
+        },
+        {
+          "name": "Edge Deluxe",
+          "amenities": ["WiFi", "TV", "Air Conditioning", "Mini Bar", "Sea View"],
+          "pricePerNight": 390.00,
+          "availableRooms": 7,
+          "images": [
+            "https://fastly.picsum.photos/id/143/400/300.jpg?hmac=abcde"
+          ]
+        }
+      ]
+    }
+  ]
+  
